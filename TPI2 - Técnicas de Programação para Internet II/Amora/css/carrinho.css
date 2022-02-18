@@ -1,0 +1,213 @@
+/*Background Animado*/
+html {
+    height:100%;
+  }
+  
+  body {
+    margin:0;
+  }
+  
+  .bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #8B008B 50%,  #FF1493 50%);
+    bottom:0;
+    left:-50%;
+    opacity:.5;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+  
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:4s;
+  }
+  
+  .bg3 {
+    animation-duration:5s;
+  }
+  
+  
+  h1 {
+    font-family:monospace;
+  }
+  
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+/*fim background animado*/
+.quantity {
+    float: left;
+    margin-right: 15px;
+    background-color: #eee;
+    position: relative;
+    width: 80px;
+    overflow: hidden
+}
+
+.quantity input {
+    margin: 0;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    padding: 0;
+    float: right;
+    color: #000;
+    font-size: 20px;
+    border: 0;
+    outline: 0;
+    background-color: #F6F6F6
+}
+
+.quantity input.qty {
+    position: relative;
+    border: 0;
+    width: 10%;
+    height: 40px;
+    padding: 10px 25px 10px 10px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 0;
+    background-clip: padding-box
+}
+
+.quantity .minus, .quantity .plus {
+    line-height: 0;
+    background-clip: padding-box;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-background-size: 6px 30px;
+    -moz-background-size: 6px 30px;
+    color: #bbb;
+    font-size: 20px;
+    position: absolute;
+    height: 50%;
+    border: 0;
+    right: 0;
+    padding: 0;
+    width: 25px;
+    z-index: 3
+}
+
+.quantity .minus:hover, .quantity .plus:hover {
+    background-color: #dad8da
+}
+
+.quantity .minus {
+    bottom: 0
+}
+.shopping-cart {
+    margin-top: 20px;
+}
+
+.logo{
+    width: 15%;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+text-decoration: none;
+}
+/*Navbar começo */
+@font-face {
+    font-family: alata;
+    src: url('../Alata/Alata-Regular.ttf')
+}
+
+
+#logo img{
+    position: relative;
+   display: block;
+   margin-left: 40%;
+   margin-right: 40%;
+   width: auto;
+   max-width: 18%;
+
+}
+
+#logo{
+    widtbsolute;
+
+}
+
+.login {
+   position: fixed;   
+   margin-left: 1%;
+   margin-top: 2%;
+   z-index: 1000;
+  
+}
+
+.botao{
+    border-radius: 4%;
+    border: 2px solid  #e303fc;
+    padding: 15% 36%;
+    font-family: alata, Helvetica, sans-serif;
+    font-size:1.2vw;
+    background-color: #e303fc;
+    color:#fff;
+    display: inline-block;
+    cursor: pointer;
+}
+
+    .botao:hover{
+    background-color: #56005f;
+    color: #000;
+    border: 2px solid  #56005f;
+}
+
+
+header ul {
+    position: relative ;  
+    padding: 14% 16% 0px 12%;
+    padding-top: 2%;
+     
+   
+}
+
+header ul li {
+    list-style: none;
+    display: inline;
+
+    
+}
+
+header ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    width: 9vw;
+    font-size: 1.6vw;
+    font-family: alata, Helvetica, sans-serif;
+}
+
+
+header ul li a:hover {
+    color: purple;
+    text-decoration: none;
+}
+.containe{
+	position: relative;
+    text-align: center;
+    
+}
+
+
+/*Navbar fim */
+.product-name{
+font-size:14px;
+}
+small{
+    font-size:12px;
+}
+
+

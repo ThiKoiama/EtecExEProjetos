@@ -1,0 +1,15 @@
+F:\Técnico\LPO\Projeto\ProjetoForm1\bin\Release\ProjetoForm1.exe.config
+F:\Técnico\LPO\Projeto\ProjetoForm1\bin\Release\ProjetoForm1.exe
+F:\Técnico\LPO\Projeto\ProjetoForm1\bin\Release\ProjetoForm1.pdb
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\Atividades.csprojAssemblyReference.cache
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Atividade2.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Atividade3.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Atividade4.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Atividade1.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Atividade5.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Menu.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.Properties.Resources.resources
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\Atividades.csproj.GenerateResource.cache
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\Atividades.csproj.CoreCompileInputs.cache
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.exe
+F:\Técnico\LPO\Projeto\ProjetoForm1\obj\Release\ProjetoForm1.pdb

@@ -1,0 +1,29 @@
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\bin\Release\Calculadora.exe.config
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\bin\Release\Calculadora.exe
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\bin\Release\Calculadora.pdb
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.Calculadora.resources
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.Properties.Resources.resources
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.csproj.GenerateResource.cache
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.exe
+D:\Técnico\LPO\Calculadora -Ex2\Calculadora\obj\Release\Calculadora.pdb
+D:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.exe.config
+D:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.exe
+D:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.pdb
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csprojAssemblyReference.cache
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.Calculadora.resources
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.Properties.Resources.resources
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csproj.GenerateResource.cache
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.exe
+D:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.pdb
+G:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.exe.config
+G:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.exe
+G:\Técnico\LPO\Ex2\Calculadora\bin\Release\Calculadora.pdb
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csprojAssemblyReference.cache
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.Calculadora.resources
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.Properties.Resources.resources
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csproj.GenerateResource.cache
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.exe
+G:\Técnico\LPO\Ex2\Calculadora\obj\Release\Calculadora.pdb

@@ -1,0 +1,4 @@
+F:\Técnico\LPO\Tabuada2.0\Tabuada2.0\obj\Release\Tabuada2._0.Form1.resources
+F:\Técnico\LPO\Tabuada2.0\Tabuada2.0\obj\Release\Tabuada2._0.Properties.Resources.resources
+F:\Técnico\LPO\Tabuada2.0\Tabuada2.0\obj\Release\Tabuada2.0.csproj.GenerateResource.cache
+F:\Técnico\LPO\Tabuada2.0\Tabuada2.0\obj\Release\Tabuada2.0.csproj.CoreCompileInputs.cache

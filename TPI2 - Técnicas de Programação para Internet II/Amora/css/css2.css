@@ -1,0 +1,92 @@
+body{
+    background-image: url(../Img/listras_bg.jpg);
+    background-repeat: repeat-y repeat-x;
+   }
+
+   @font-face {
+    font-family: alata;
+    src: url('../Alata/Alata-Regular.ttf')
+}
+   
+   
+   /*Navbar começo */
+   
+   
+   #logo img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 250px;
+      padding-top: 2%;
+   
+   }
+   
+   #logo{
+       width: 100%;
+   
+   }
+   
+   
+   
+   header ul {
+       text-align: center;
+       margin:10; padding:0;
+      
+   }
+   
+   header ul li {
+       list-style: none;
+       display: inline;
+   }
+   
+   header ul li a {
+       display: inline-block;
+       text-decoration: none;
+       color: #000;
+       margin-right: -3px;
+       width: 100px;
+       font-size: 1.0em;
+       font-family: alata, Helvetica, sans-serif;
+   }
+
+   header ul li a:hover {
+    color: purple;
+    text-decoration: none;
+}
+   
+   /*Navbar fim */
+   
+   /*Slide Menu*/
+   
+   .caixa{
+       position: relative;
+       text-align: center;
+   }
+   
+   .botao{
+    border-radius: 4px;
+    border: 2px solid  #e303fc;
+    padding: 8px 18px;
+    font-family: alata, Helvetica, sans-serif;
+    font-size:15px;
+    background-color: #e303fc;
+    color:#fff;
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    margin: 1.5em;
+    z-index: 1000;
+}
+
+    .botao:hover{
+    cursor: pointer;
+    background-color: #56005f;
+    color: #000;
+    border: 2px solid  #56005f;
+    
+}
+
+
+
+   
+   

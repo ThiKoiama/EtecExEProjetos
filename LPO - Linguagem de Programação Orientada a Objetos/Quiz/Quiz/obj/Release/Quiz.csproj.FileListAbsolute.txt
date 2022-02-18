@@ -1,0 +1,60 @@
+F:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.exe.config
+F:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.exe
+F:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.pdb
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.Form1.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form2.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form3.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form4.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form5.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form6.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.Properties.Resources.resources
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csproj.GenerateResource.cache
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csproj.CoreCompileInputs.cache
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.exe
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.pdb
+C:\Users\Thiago\Desktop\Quiz\Quiz\bin\Release\Quiz.exe.config
+C:\Users\Thiago\Desktop\Quiz\Quiz\bin\Release\Quiz.exe
+C:\Users\Thiago\Desktop\Quiz\Quiz\bin\Release\Quiz.pdb
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.Form1.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.form2.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.form3.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.form4.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.form5.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.form6.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.exe
+C:\Users\Thiago\Desktop\Quiz\Quiz\obj\Release\Quiz.pdb
+C:\Users\Thiago\Desktop\Quiz -\Quiz\bin\Release\Quiz.exe.config
+C:\Users\Thiago\Desktop\Quiz -\Quiz\bin\Release\Quiz.exe
+C:\Users\Thiago\Desktop\Quiz -\Quiz\bin\Release\Quiz.pdb
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.Form1.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.form2.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.form3.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.form4.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.form5.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.form6.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.exe
+C:\Users\Thiago\Desktop\Quiz -\Quiz\obj\Release\Quiz.pdb
+D:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.exe.config
+D:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.exe
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csprojAssemblyReference.cache
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.Form1.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form2.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form3.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form4.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form5.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.form6.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.Properties.Resources.resources
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csproj.GenerateResource.cache
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csproj.CoreCompileInputs.cache
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.exe
+D:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.pdb
+D:\Técnico\LPO\Quiz\Quiz\bin\Release\Quiz.pdb
+F:\Técnico\LPO\Quiz\Quiz\obj\Release\Quiz.csprojAssemblyReference.cache

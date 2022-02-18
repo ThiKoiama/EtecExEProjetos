@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.v.resources
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Properties.Resources.resources
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+C:\Users\Aluno\Desktop\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csprojAssemblyReference.cache
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.v.resources
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Properties.Resources.resources
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.GenerateResource.cache
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+F:\Técnico\LPO\PrimeiroProjeto - Copia\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb

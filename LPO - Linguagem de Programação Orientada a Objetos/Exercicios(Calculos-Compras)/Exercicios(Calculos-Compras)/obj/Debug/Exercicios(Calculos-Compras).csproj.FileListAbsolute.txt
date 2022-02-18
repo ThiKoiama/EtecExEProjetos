@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\bin\Debug\Exercicios(Calculos-Compras).exe.config
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\bin\Debug\Exercicios(Calculos-Compras).exe
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\bin\Debug\Exercicios(Calculos-Compras).pdb
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios(Calculos-Compras).csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios_Calculos_Compras_.Form1.resources
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios_Calculos_Compras_.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios(Calculos-Compras).csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios(Calculos-Compras).csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios(Calculos-Compras).exe
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios(Calculos-Compras).pdb
+C:\Users\Aluno\source\repos\Exercicios(Calculos-Compras)\Exercicios(Calculos-Compras)\obj\Debug\Exercicios_Calculos_Compras_.Compras.resources

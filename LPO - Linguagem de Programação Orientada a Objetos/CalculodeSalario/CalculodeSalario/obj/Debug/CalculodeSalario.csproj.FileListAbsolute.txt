@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.exe.config
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.exe
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.pdb
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.Form1.resources
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.exe
+C:\Users\Aluno\Desktop\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.pdb
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.exe.config
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.exe
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\bin\Debug\CalculodeSalario.pdb
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csprojAssemblyReference.cache
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.Form1.resources
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.Properties.Resources.resources
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csproj.GenerateResource.cache
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.csproj.CoreCompileInputs.cache
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.exe
+F:\Main\Escola\Tecnico\LPO\Exercícios VoltaDasFerias\CalculodeSalario\CalculodeSalario\obj\Debug\CalculodeSalario.pdb

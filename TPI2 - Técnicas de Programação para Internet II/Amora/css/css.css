@@ -1,0 +1,124 @@
+
+     
+  /*Navbar começo */
+@font-face {
+    font-family: alata;
+    src: url('../Alata/Alata-Regular.ttf')
+}
+
+
+#logo img{
+    position: fixed;
+   display: block;
+   margin-left: 40%;
+   margin-right: 40%;
+   width: auto;
+   max-width: 18%;
+
+}
+
+#logo{
+    widtbsolute;
+
+}
+
+.login {
+   position: fixed;   
+   margin-left: 1%;
+   margin-top: 2%;
+   z-index: 1000;
+  
+}
+
+.botao{
+    border-radius: 4%;
+    border: 2px solid  #e303fc;
+    padding: 15% 36%;
+    font-family: alata, Helvetica, sans-serif;
+    font-size:1.2vw;
+    background-color: #e303fc;
+    color:#fff;
+    display: inline-block;
+    cursor: pointer;
+}
+
+    .botao:hover{
+    background-color: #56005f;
+    color: #000;
+    border: 2px solid  #56005f;
+}
+
+
+header ul {
+    position: relative ;  
+    padding: 13% 13% 0px 12% ; 
+     
+    
+   
+}
+
+header ul li {
+    list-style: none;
+    display: inline;
+
+    
+}
+
+header ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    width: 9vw;
+    font-size: 1.2vw;
+    font-family: alata, Helvetica, sans-serif;
+}
+
+
+header ul li a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
+
+
+/*Navbar fim */
+
+/*Slide Menu*/
+
+.containe{
+	position: relative;
+	text-align: center;
+}
+
+li {
+list-style: none;
+}
+
+@media(max-width: 576px){
+    .login{
+        display: none;
+    }
+    #logo img{
+        position: fixed;
+   display: block;
+  margin-top: 18%;
+   width: auto;
+   max-width: 18%;
+    }
+header ul{
+    position: fixed;
+    margin-top:20% ;
+    margin-left:14% ;
+    
+}
+header ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+    font-size: 2.4vw;
+    margin-top: 3%;
+    font-family: alata, Helvetica, sans-serif;
+}
+}
+
